@@ -4,6 +4,7 @@
 	"description": "Currently an unknown project",
 	"keywords": ["freecodecamp", "beginner"],
 	"license": "unknown license",
+	"version": "1.0.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
